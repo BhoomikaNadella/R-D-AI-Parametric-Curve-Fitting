@@ -66,7 +66,15 @@ optimization.
 The final fitted curve was then compared with the provided data
 using L1 distance and uniform sampling.
 
+
 ## Files
 
 - `R&D_AI_Parametric_Curve_Fitting.ipynb` – Python implementation
 - `xy_data.csv` – Provided dataset
+
+## Desmos Visualization
+
+The final parametric curve using the estimated parameters can be viewed
+interactively in Desmos:
+
+[View the Desmos Graph](https://www.desmos.com/calculator/vey7shuv0r)
